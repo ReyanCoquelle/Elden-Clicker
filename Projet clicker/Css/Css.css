@@ -1,0 +1,42 @@
+body
+{
+	height: 100vh;
+	width: 100%;
+	background-image:url("https://4news.it/wp-content/uploads/2021/06/Elden-Ring-Header.jpg");
+	color: #C7CF00;
+	overflow: hidden;
+	
+}
+
+.Buton	
+{
+	display: block;
+	justify-content: center;
+	align-items: center;
+	vertical-align: top;
+	margin: auto;
+}
+	
+h1 
+{
+	text-align:center;
+}
+
+.Click 
+{
+	text-align:center;
+}
+
+.Rune 
+{
+	text-align:center;
+}
+.NDB
+{
+	text-align:;
+	align-items: center;
+	justify-content: left;
+	margin: auto;
+
+
+}
